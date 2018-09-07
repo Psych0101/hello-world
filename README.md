@@ -1,2 +1,6 @@
 # hello-world
-this repository is for a test.
+This repository is for a test.
+
+Hi Humans!
+
+I am planning to learn to implement machine learning techniques by Keras.
