@@ -1,14 +1,10 @@
 # This page is copied and pasted from the below page for only a purpose to learn how to use GitHub.
 
+# # aaa
+
 https://github.com/jupyter/notebook/blob/master/README.md
 
 # Jupyter Notebook
-
-[![Google Group](https://img.shields.io/badge/-Google%20Group-lightgrey.svg)](https://groups.google.com/forum/#!forum/jupyter)
-[![Build Status](https://travis-ci.org/jupyter/notebook.svg?branch=master)](https://travis-ci.org/jupyter/notebook)
-[![Documentation Status](https://readthedocs.org/projects/jupyter-notebook/badge/?version=latest)](http://jupyter-notebook.readthedocs.io/en/latest/?badge=latest)
-                
-
 
 The Jupyter notebook is a web-based notebook environment for interactive
 computing.
