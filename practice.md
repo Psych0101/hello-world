@@ -1,3 +1,7 @@
+# this page is copied and pasted from the below page for learning how to use GitHub
+
+https://github.com/jupyter/notebook/blob/master/README.md
+
 # Jupyter Notebook
 
 [![Google Group](https://img.shields.io/badge/-Google%20Group-lightgrey.svg)](https://groups.google.com/forum/#!forum/jupyter)
