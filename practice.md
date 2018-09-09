@@ -1,10 +1,8 @@
 # This page is copied and pasted from the below page for only a purpose to learn how to use GitHub.
 
-# # aaa
-
 https://github.com/jupyter/notebook/blob/master/README.md
 
-# Jupyter Notebook
+# "#" symbol makes this sentence a headline title size.
 
 The Jupyter notebook is a web-based notebook environment for interactive
 computing.
