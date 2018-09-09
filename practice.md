@@ -2,10 +2,9 @@
 
 https://github.com/jupyter/notebook/blob/master/README.md
 
-# "#" symbol makes this sentence a headline title size.
+# "#" symbol makes strings in a headline title size in this line.
 
-The Jupyter notebook is a web-based notebook environment for interactive
-computing.
+Without "#" symbol, strings stay in a normal font size.
 
 ![Jupyter notebook example](docs/resources/running_code_med.png "Jupyter notebook example")
 
