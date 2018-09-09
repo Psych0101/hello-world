@@ -7,4 +7,4 @@ https://github.com/jupyter/notebook/blob/master/README.md
 Without "#" symbol, strings stay in a normal font size.
 
 
-    $ pip install notebook
+   $ pip install notebook
