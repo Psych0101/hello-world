@@ -5,3 +5,5 @@ https://github.com/jupyter/notebook/blob/master/README.md
 # "#" symbol makes strings in a headline title size in this line.
 
 Without "#" symbol, strings stay in a normal font size.
+
+$ pip install notebook
